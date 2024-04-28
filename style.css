@@ -1,50 +1,42 @@
 * {
-    background-image: url('./bg-img.jpg');
+    background-image: url('-\ Copy.jpg');
     background-size: cover;
     background-attachment: fixed;
-    background-position-x: center;
+    background-position: center;
     background-repeat: no-repeat;
     padding: 0%;
     margin: 0%;
-    
 }
+    
 h1{
-
-text-align: center;
-margin: o auto;
-display: fixed;
-
+    color: white;
+    margin-left: 20px;
+    margin-top: 40px;
 }
-button {
-    
-    padding: 10px 20px;
-        background-color: #007bff;
-        color: white;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer
-       
-        justify-content: center;
-        align-items: center;
-        
-}
-    
-
-
-#heading{
-    text-align: left;
-}
-#div{
+#box{
     text-align: right;
+    padding-right: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
     word-spacing: 20px;
-    padding: 20px;
+    margin-bottom: 120px;
+
+    
 }
-p{
+#content{
+    font-size: x-large;
     text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    color: black;
 }
 
-
-
-
-
+ button {
+    border-radius: 25px;
+    border: 2px solid black;
    
+    
+}
+a{
+    color: white;
+}
